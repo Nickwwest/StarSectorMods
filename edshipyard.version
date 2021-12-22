@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.version",
+    "modName":"ED Shipyard",
+    "modThreadId":16479,
+    "modVersion":
+    {
+        "major":2,
+        "minor":4,
+        "patch":"0 beta 1"
+    }
+}
