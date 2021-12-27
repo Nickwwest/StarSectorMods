@@ -7,5 +7,7 @@
         "major":3,
         "minor":7,
         "patch":0
-    }
+    },
+    "starsectorVersion":"0.95.1a-RC6",
+	"directDownloadURL":"https://bitbucket.org/NickWWest/starsectorcoopcombat/downloads/CoOpCombat.3.7.zip",
 }
