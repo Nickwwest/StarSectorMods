@@ -1,12 +1,13 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.version",
     "modName":"ED Shipyard",
-    "modThreadId":16479,
-    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.4.0.zip",
+    "modThreadId":16479,    
     "modVersion":
     {
         "major":2,
         "minor":4,
         "patch":"0"
-    }
+    },
+    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.4.0.zip",
+    "starsectorVersion":"0.95.1a-RC6",
 }
