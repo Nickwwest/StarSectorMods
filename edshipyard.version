@@ -6,8 +6,8 @@
     {
         "major":2,
         "minor":4,
-        "patch":"0"
+        "patch":"1"
     },
-    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.4.0.zip",
+    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.4.1.zip",
     "starsectorVersion":"0.95.1a-RC6",
 }
