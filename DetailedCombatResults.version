@@ -1,11 +1,13 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/DetailedCombatResults.version",
     "modName":"Detailed Combat Results",
-    "modThreadId":11551.0,
+    "modThreadId":11551.0,    
     "modVersion":
     {
         "major":5,
         "minor":2,
         "patch":1
-    }
+    },
+    "starsectorVersion":"0.95.1a-RC6",
+    "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.2.1.zip",
 }
