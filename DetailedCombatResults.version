@@ -6,8 +6,8 @@
     {
         "major":5,
         "minor":2,
-        "patch":1
+        "patch":2
     },
     "starsectorVersion":"0.95.1a-RC6",
-    "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.2.1.zip",
+    "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.2.2.zip",
 }
