@@ -1,0 +1,63 @@
+Version 5.3.2
+ All settings now done through Luna (still a soft dependency)
+ Results UI now tracks damage healed  (requires mods to use DamageReports)
+
+Version 5.3.1
+ Upgrade to Starsector .96a
+ Changes to support DEM missiles (Thanks DR)
+ Improvements to ignoring exploding ship damage logic
+
+Version 5.3.0
+ Configuration values can now be configured via Luna (Thanks Lukas04)
+ Additional support for mods specifying damage or clarifying unknown damages
+ Modification of vanilla on-hit effects to specify and clarify their damages
+ Mod Authors, please look at the file: https://bitbucket.org/NickWWest/starsectorcombatanalytics/src/master/CombatAnalyticsMod/src/data/scripts/DCRIntegration.java
+
+Version 5.2.3
+  Supports having damage values supplied by mods (specifically Realistic Combat)
+
+Version 5.2.2
+  Bugfix Release:
+  Ship count limit now configurable via JSON (for intel display)
+  Updated wording for enemy fleet damage dealt
+  Lightning gun from SWP now has its damage recorded correctly
+  Don't process missile damages 2x (was caused by processing explosion damage and then missile damge)
+  Don't count launched missiles as a part of a fleet
+
+Version 5.2.1
+ Bugfixes
+
+Version 5.2.0
+ Updated to .95.1a
+ Now tracks missiles intercepted
+ Now tracks explosion damage in a more robust manner (greatly improved accuracy)
+ General improvements to damage detection accuracy
+
+Version 5.1.2
+ Fixed issue with explosions and looking too deeply inside core objects. Thanks Photonsynthesis
+ Better explosion damage detection
+
+Version 5.1.1
+ Add caching layer to prevent perf issues if IntelCombatReport.isValid() is called repeatedly (by mods)
+ Data is now stored in a compressed format
+ Now includes Chinese (locale=zh) translation (thanks saya39!): https://www.fossic.org/forum.php?mod=viewthread&tid=1667
+
+Version 5.1
+ Campaign Simulation Battles now create "simulation" combat results that last for a day
+ Changed Flux Dmg -> EMP Dmg
+ Localization fixes (some strings were omitted)
+ Issue with Motes not always being properly identified
+
+Version 5.0
+ Can now be localized, current localization is English
+ Uses StarSector .95 damage listener system to give much more accurate values for damage.
+ Now properly tracks (didn't before):
+ * plasma cannons
+ * Flak weapons
+ * Doom Mines
+ * Mines generally
+ * storyline "things"
+ * collision damage
+ * on-hit effects
+ Beam weapons that use multiple beams (like Seeker's kaleidoscope) now have damage computed correctly
+ Renamed mod to show scope and goal (not general analytics, just detailed combat results)
