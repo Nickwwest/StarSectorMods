@@ -1,6 +1,7 @@
 Version 5.3.2
  All settings now done through Luna (still a soft dependency)
- Results UI now tracks damage healed  (requires mods to use DamageReports)
+ Results UI now tracks damage repaired (requires mods to report damage repaired)
+ New uninstall LunaLib setting
 
 Version 5.3.1
  Upgrade to Starsector .96a
