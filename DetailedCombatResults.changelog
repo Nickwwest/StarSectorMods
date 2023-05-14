@@ -1,3 +1,6 @@
+Version 5.3.3
+ Fix for rare null pointer when tracking emp arc damage
+
 Version 5.3.2
  All settings now done through Luna (still a soft dependency)
  Results UI now tracks damage repaired (requires mods to report damage repaired)
