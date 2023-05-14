@@ -6,9 +6,9 @@
     {
         "major":5,
         "minor":3,
-        "patch":2
+        "patch":3
     },
-    "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.3.2.zip",
-    "starsectorVersion":"0.96a-RC7",
+    "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.3.3.zip",
+    "starsectorVersion":"0.96a-RC9",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/DetailedCombatResults.changelog",
 }
