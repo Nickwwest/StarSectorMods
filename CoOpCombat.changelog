@@ -1,0 +1,14 @@
+Version 3.8
+ Updated for StarSector .96a
+ Now uses LunaLib for key configuration
+
+Version 3.8
+ Updated for StarSector .95a
+ Backwards compatible
+ Added PREV_TARGET key, so it's now possible to cycle through targets both directions
+
+Version 3.6
+ Players can now change which ship they are controlling during battle ('Insert' key by default for player 2)
+ Players can now retreat. Simply order a retreat and switch ships until no one is controlling any retreating ships.
+ Changed how keys are configured to be a bit simpler to add additional players
+ Backwards compatible
