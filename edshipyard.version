@@ -6,9 +6,9 @@
     {
         "major":2,
         "minor":6,
-        "patch":2
+        "patch":3
     },
-    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.6.2.zip",
+    "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.6.3.zip",
     "starsectorVersion":"0.96a-RC10",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.changelog",
 }
