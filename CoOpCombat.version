@@ -1,13 +1,13 @@
 {
-    "masterVersionFile":"https://bitbucket.org/NickWWest/starsectorcoopcombat/downloads/CoOpCombat.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/CoOpCombat.version",
     "modName":"Cooperative Combat",
     "modThreadId":11598,
     "modVersion":
     {
         "major":3,
-        "minor":7,
+        "minor":8,
         "patch":0
     },
-    "starsectorVersion":"0.95.1a-RC6",
-	"directDownloadURL":"https://bitbucket.org/NickWWest/starsectorcoopcombat/downloads/CoOpCombat.3.7.zip",
+    "starsectorVersion":"0.96a-RC10",
+    "directDownloadURL":"https://bitbucket.org/NickWWest/starsectorcoopcombat/downloads/CoOpCombat.3.8.zip"
 }
