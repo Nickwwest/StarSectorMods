@@ -1,3 +1,12 @@
+Version 2.6.3
+- Wurgandal buffs
+-- ~10% more hull
+-- ~8% more flux dissipation from weapon segments
+-- No zero flux speed penalty
+-- Lowered supply usage by 25%
+- Newfoundland is a bit smarter at activating its anti-missile system
+- More attempts at Newfoundland collision prevention
+
 Version 2.6.2
 - New bounty given out by pirates
 - Prism Freeport again has an ED Submarket
