@@ -1,3 +1,9 @@
+Version 2.6.4
+- Much less likely two newfoundlands will collide
+- Wurg has better AI targeting of ships with modules that report as phase ships
+- Shield breaker (shotgun) sounds redone to better fit with Star Sector, weapon volume lowered
+- Added a new distress encounter
+
 Version 2.6.3
 - Wurgandal buffs
 -- ~10% more hull
