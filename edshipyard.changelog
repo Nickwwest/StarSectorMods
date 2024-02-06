@@ -1,3 +1,8 @@
+Version 2.6.5
+- Upgrade to SS .97a
+- New Super Ship start for Nexerlin
+- Minor bug fixes
+
 Version 2.6.4
 - Much less likely two newfoundlands will collide
 - Wurg has better AI targeting of ships with modules that report as phase ships
