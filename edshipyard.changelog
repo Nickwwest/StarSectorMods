@@ -1,3 +1,12 @@
+Version 2.6.6
+- Doog bounty now works
+- Removed doog portrait, it was thematically incorrect
+- Cleaned up Magic Bounty ranks
+- Saluki-X now gets added to game world on new game
+- Removed versioning kill code, instead there is a warning in the version file
+- Reduced MAW arc chance with missiles.
+- Gunnery Control Mod MAW blacklist
+
 Version 2.6.5
 - Upgrade to SS .97a
 - New Super Ship start for Nexerlin
