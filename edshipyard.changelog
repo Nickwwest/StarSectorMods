@@ -1,3 +1,16 @@
+Version 2.6.7
+- Ambush Swap system no longer is used by the AI while retreating
+- Newfoundland - various minor tweaks
+- Wurgandal
+-- Minor balance tweaks
+-- AI Maw usage is a tad safer
+-- Maw AoE damage is reduced based on distance from the source
+-- Modules now slowly drain their flux to the central core
+- Armor drone repair rate reduced by 1/3
+- Dobermann Grand Salvo now is affected by modifications to RoF
+- Utility ships more likely to show up in ED Markets
+- Integration with Exiled Space (rare faction)
+
 Version 2.6.6
 - Doog bounty now works
 - Removed doog portrait, it was thematically incorrect
