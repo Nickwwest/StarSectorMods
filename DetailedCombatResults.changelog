@@ -1,3 +1,13 @@
+Version 5.4.1
+ Fixed bug with beam damage calculation relating to pauses & slowdowns
+ Don't calculate damage while paused (thanks bug reporter!)
+ Grid rows now highlight on mouseover
+ Weapons grid rows now have mouse over tooltips with extra info
+ Weapon data rows are highlighted based on weapon performance (% OP vs % Dmg) So you can see more easily which weapons are doing well
+ Performance
+  - New save file format for performance (New data save format, old combats won't load but this won't brick your save or anything)
+  - New in-memory damage tracking
+
 Version 5.4.0
  Update to SS .97a
 
