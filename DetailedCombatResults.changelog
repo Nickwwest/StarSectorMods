@@ -1,3 +1,6 @@
+Version 5.4.2
+ update to SS .98a
+
 Version 5.4.1
  Fixed bug with beam damage calculation relating to pauses & slowdowns
  Don't calculate damage while paused (thanks bug reporter!)
