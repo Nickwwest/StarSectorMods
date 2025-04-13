@@ -1,8 +1,12 @@
+Version 3.9
+ Updated for StarSector .98a
+ Restored support for 3 players max (Good luck finding enough keys)
+
 Version 3.8
  Updated for StarSector .96a
  Now uses LunaLib for key configuration
 
-Version 3.8
+Version 3.7
  Updated for StarSector .95a
  Backwards compatible
  Added PREV_TARGET key, so it's now possible to cycle through targets both directions
