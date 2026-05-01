@@ -1,3 +1,25 @@
+Version 2.7.0
+
+- Should be save compatible
+
+Changes
+- Very slight buff to Dalmation
+- Changes to Newfoundland (train) to improve AI
+- New secret ship based on the Newfoundland
+- Scatter Cannons (all tiers) — accuracy buff (they were more or less useless)
+
+Bug Fixes
+- Removed plink gun from buildable list
+- More null checks
+- Fleet Repair Optimizations now works all the time (thank you Drawngazer!)
+- Fleets will now properly despawn
+- Distress encounter no longer combines Remnant and Omega factions
+
+
+Version 2.6.8
+- Update to SS v.98a
+
+
 Version 2.6.7
 - Update to SS v.98a
 
