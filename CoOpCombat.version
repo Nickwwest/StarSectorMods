@@ -5,10 +5,10 @@
     "modVersion":
     {
         "major":3,
-        "minor":9,
+        "minor":10,
         "patch":0
     },
     "starsectorVersion":"0.98a-RC7",
-    "directDownloadURL":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/CoOpCombat.3.9.zip",
+    "directDownloadURL":"https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/CoOpCombat.3.10.zip",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/CoOpCombat.changelog",
 }

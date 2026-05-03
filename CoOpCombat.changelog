@@ -1,3 +1,8 @@
+Version 3.10
+ Players and Targets now have a flux bar
+ Autofire bugs should be fixed
+ When using a ship system, the system target is set to the ships target (should fix Doom mines not spawning anywhere useful)
+
 Version 3.9
  Updated for StarSector .98a
  Restored support for 3 players max (Good luck finding enough keys)
