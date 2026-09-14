@@ -1,3 +1,9 @@
+Version 5.4.4
+ Save compatible
+ Many, many performance improvements (code is about 2x as fast)
+ Hits counting is more accurate
+ Other minor bug fixes
+
 Version 5.4.3
  Hits are now counted properly
  Many other minor code bug fixes
