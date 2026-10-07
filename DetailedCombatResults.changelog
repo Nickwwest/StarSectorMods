@@ -1,3 +1,6 @@
+Version 5.4.5
+ Fixed error (NoSuchMethodError) in missile interception tracking that could occur after a Starsector update
+
 Version 5.4.4
  Save compatible
  Many, many performance improvements (code is about 2x as fast)
