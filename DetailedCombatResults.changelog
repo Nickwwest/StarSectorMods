@@ -1,3 +1,10 @@
+Version 6.0.0
+ Damage is now measured where the game applies it (requires PatchLib), far more accurate than before
+ New PatchLib based instrumentation is between 10 and 100x faster
+ New "Negated" column in the received summary: damage blocked by armor
+ Ships with modules or built-in weapons are drawn whole in the report
+ DCR no longer replaces any game files, and mods no longer need DCRIntegration to report damage
+
 Version 5.4.5
  Fixed error (NoSuchMethodError) in missile interception tracking that could occur after a Starsector update
 

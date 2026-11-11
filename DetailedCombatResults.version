@@ -4,11 +4,11 @@
     "modThreadId":11551.0,
     "modVersion":
     {
-        "major":5,
-        "minor":4,
-        "patch":5
+        "major":6,
+        "minor":0,
+        "patch":0
     },
-    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/DetailedCombatResults.5.4.5.zip",
-    "starsectorVersion":"0.98a-RC5",
+    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/DetailedCombatResults.6.0.0.zip",
+    "starsectorVersion":"0.98.5a-RC3",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/DetailedCombatResults.changelog",
 }

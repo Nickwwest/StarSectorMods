@@ -5,10 +5,10 @@
     "modVersion":
     {
         "major":2,
-        "minor":7,
-        "patch":3
+        "minor":8,
+        "patch":0
     },
-    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/EDShipyard.2.7.3.zip",
-    "starsectorVersion":"0.98a-RC5",
+    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/EDShipyard.2.8.0.zip",
+    "starsectorVersion":"0.98.5a-RC3",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.changelog",
 }

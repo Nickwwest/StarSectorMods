@@ -1,3 +1,11 @@
+Version 2.8.0
+- Updated for Starsector 0.98.5a
+- Better Train retreat behavior
+- Dobermann's Grand Salvo stays pointed at its target
+- Combat performance improvements
+- MAW no longer appears in station loot tables
+- Fixed problems when the game is localized
+
 Version 2.7.3
 - Save compatible
 - Bug Fixes
