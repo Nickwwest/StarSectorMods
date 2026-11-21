@@ -6,9 +6,9 @@
     {
         "major":2,
         "minor":8,
-        "patch":0
+        "patch":1
     },
-    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/EDShipyard.2.8.0.zip",
-    "starsectorVersion":"0.98.5a-RC3",
+    "directDownloadURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/mods/EDShipyard.2.8.1.zip",
+    "starsectorVersion":"0.98.5a-RC8",
     "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.changelog",
 }

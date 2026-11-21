@@ -1,3 +1,16 @@
+Version 2.8.1
+- Various bug fixes
+- Changes to be in line with "extended/survival" mode
+- Improved Tyrant Maw visuals and AI
+- Newfoundland (Train) has a much improved AI
+- Retriever (Repair ship) has a much improved AI
+- Saluki-X
+  - Better Phase Performance
+  - Recovery costs story points
+- Safety Removal now also raises the ship's crew salaries
+- Balancing pass on Papillion missile bomber (nerfed)
+- Plasma Drive reworked to be more of a general movement system to support a stick-and-move play style
+
 Version 2.8.0
 - Updated for Starsector 0.98.5a
 - Better Train retreat behavior
